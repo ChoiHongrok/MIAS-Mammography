@@ -1,5 +1,4 @@
-MIAS Mammography에서 제공하는 Dataset을 이용하여
-breast cancer clasffication하는 모델입니다.
+# MIAS Mammography에서 제공하는 Dataset을 이용하여 breast cancer clasffication하는 모델입니다.
 
 
 # code based on pytorch

@@ -2,5 +2,5 @@
 
 
 # code based on pytorch
-> breast_cancer_01.ipynb: user-defined CNN model
-> breast_cancer_02_ResNet.ipynb: pretrained resnet18 model
+breast_cancer_01.ipynb: user-defined CNN model<br>
+breast_cancer_02_ResNet.ipynb: pretrained resnet18 model
